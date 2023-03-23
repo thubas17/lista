@@ -1,0 +1,38 @@
+body{
+	background-color: rgba(9, 5, 131, 0.128);
+	color: rgb(165, 42, 42);
+	font-weight: bold;
+	text-align: center;
+}
+button{
+	background-color: blueviolet;
+	color: aliceblue;
+	padding: 5px;
+	border-radius: 10px;
+	border-color: rgb(78, 18, 134);
+	 
+	margin-bottom: 20px; 
+	font-size: 15px;
+}
+input{
+	background-color: rgba(172, 176, 252, 0.47);
+	color:brown;
+	padding: 5px;
+	border-radius: 10px;
+	font-size: 16px;
+	margin-top: 20px;
+
+}
+h1, h3{
+	color: rgb(112, 48, 2);
+	font-size: 28px;
+	margin-bottom: 30px;
+	
+}
+hr{
+	background-color: rgb(112, 48, 2);
+	height: 2px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
